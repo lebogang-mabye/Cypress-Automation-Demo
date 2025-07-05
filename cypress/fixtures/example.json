@@ -1,0 +1,22 @@
+{
+  "firstName1": "FName1",
+  "lastName1": "LName1",
+  "userName1": "User1",
+  "password1": "Pass1",
+  "firstName2": "FName2",
+  "lastName2": "LName2",
+  "userName2": "User2",
+  "password2": "Pass2",
+
+  "roleAdmin": "Admin",
+  "roleCustomer": "Customer",
+  "roleSales": "Sales Team",
+
+  "email1": "admin@mail.com",
+  "email2": "customer@mail.com",
+
+  "cellPhone1": "082555",
+  "cellPhone2": "083444",
+
+  "message": "This is a test message!"
+}
