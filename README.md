@@ -104,25 +104,25 @@ cypress/e2e
 ## Framework Benefits
 
 Below are some the Cypress benefits:
-```
+
 open-source: it is free to use
-```
+
 Super-fast: faster than all the testing frameworks in the market
-```
+
 Time Travel: takes snapshots as your tests run
-```
+
 Debuggability: readable error and stack traces
-```
+
 Automatic Waiting: no need to put explicit wait statements
-```
+
 Screenshots and Videos: simple options to get screenshots and videos while the tests run in CI/CD
-```
+
 Cross Browser Testing: locally or remotely 
-```
+
 API Testing: You can also mock server responses. This is a much needed solution in the API world 
-```
+
 Easy to write tests
-```
+
 
 ----
 
